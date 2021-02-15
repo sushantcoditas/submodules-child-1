@@ -1,0 +1,3 @@
+[submodule "submodules-parent"]
+	path = submodules-parent
+	url = git@github.com:sushantcoditas/submodules-parent
